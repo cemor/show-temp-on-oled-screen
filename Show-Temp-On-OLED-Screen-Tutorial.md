@@ -6,7 +6,7 @@ The OLED screen is way easier to read than your micro:bit's LED screen and can s
 
 ## Step 1 @unplugged
 First we need to set up our OLED screen. Plug your OLED screen into the I2C port on your grove shield. 
-Visit this part of the LEaFS website if you need to see what this looks like: ADD LINK 
+Visit this part of the LEaFS website if you need to see what this looks like: https://bit.ly/build-temperature-sensor
 
 ## Step 2 
 Let's use code to turn on our LED screen. Add an ``||OLED:initialize OLED||`` block to ``||basic:on start||``
