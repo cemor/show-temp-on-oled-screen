@@ -236,7 +236,8 @@ basic.forever(function () {
 ## Step 15
 Now it's time to test your program! Download the code and see what happens. Don't forget that you can find resources and help on the LEaFS website if something isn't working. 
 
-```package
+``` package
 pxt-DHT11_DHT22=github:alankrantas/pxt-DHT11_DHT22#v0.0.2
 oled=github:tinkertanker/pxt-oled-ssd1306
+
 ```
