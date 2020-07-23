@@ -38,7 +38,7 @@ Visit this page on the LEaFS website if you need to see what this looks like: AD
 ## Step 5
 
 Now that your sensor is plugged in, lets code it to figure out what the temperature in your garden is. 
-Grab a ``||DHT11_DHT22:Query||`` block from the ``||DHT11_DHT22:DHT11/DHT22 category||`` and drag it into the ``||basic:forever||`` block.  Make sure all of the ``||Logic:true/false||`` statements say `True`.
+Grab a ``||DHT11_DHT22:Query||`` block from the ``||DHT11_DHT22:DHT11/DHT22 category||`` and drag it into the ``||basic:forever||`` block.  Make sure all of the ``||Logic:true/false||`` statements say `True` and that you have selected "DHT22".
 
 
 ``` blocks
