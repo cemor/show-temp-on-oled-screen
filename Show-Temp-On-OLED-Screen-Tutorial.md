@@ -33,7 +33,7 @@ OLED.clear()
 ## Step 4 @unplugged
 To read the temperature in your garden you have to use the temperature and humidity sensor. 
 Make sure you have the humidity sensor plugged into pin 0 on your grove shield. 
-Visit this page on the LEaFS website if you need to see what this looks like: ADD LINK
+Visit this page on the LEaFS website if you need to see what this looks like: https://bit.ly/build-temperature-sensor
 
 ## Step 5
 
