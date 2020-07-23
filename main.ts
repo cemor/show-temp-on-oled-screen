@@ -6,7 +6,7 @@ basic.pause(2000)
 OLED.clear()
 basic.forever(function () {
     dht11_dht22.queryData(
-    DHTtype.DHT11,
+    DHTtype.DHT22,
     DigitalPin.P0,
     true,
     true,
